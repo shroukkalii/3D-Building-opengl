@@ -1,6 +1,5 @@
-# ComputerGraphics Project
+# ComputerGraphics 12th Project using opengl
 
-using opengl,
 
 3D building with sky and grass from different prespectives, movements, textures, and lightning.
 
