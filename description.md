@@ -2,7 +2,7 @@
 
 using opengl,
 
-3D building from different prespectives, movements, textures, and lightning.
+3D building with sky and grass from different prespectives, movements, textures, and lightning.
 
 also, you can move around it to see all sides with ambient light.
 
@@ -22,3 +22,5 @@ transformations are applied using:
 textures are used to make the scene almost real;
 
 download the textures on your laptop and send their paths to "loadTexture" function to load the bitmap images.
+
+images are loaded using a cpp code and header file "imageloader.cpp""imageloader.h" and then included in the opengl code.
