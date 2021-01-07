@@ -23,3 +23,5 @@ textures are used to make the scene almost real;
 download the textures on your laptop and send their paths to "loadTexture" function to load the bitmap images.
 
 images are loaded using a cpp code and header file "imageloader.cpp""imageloader.h" and then included in the opengl code.
+
+to apply different textures visit this link https://opengameart.org/node/27572 and choose what you like then convert it to bitmap file here https://online-converting.com/image/convert2bmp/ 
